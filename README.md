@@ -31,13 +31,12 @@ Whether it's building robust **backends**, crafting engaging **frontends**, or d
 ## 🌍 Connect with Me!  
 Let's talk tech, share ideas, or collaborate on something epic! 🤝  
 
-- **🌐 Personal Website**: [ayushsingh.dev](https://yourwebsite.com)  
-- **📚 Blog**: [Insights & Stories](https://yourblog.com)  
-- **🐦 Twitter**: [@AyushDev](https://twitter.com/yourprofile)  
-- **💼 LinkedIn**: [Ayush Singh](https://linkedin.com/in/yourprofile)  
-- **📸 Instagram**: [@ayush.codes](https://instagram.com/yourprofile)  
-- **📧 Email**: [ayush.singh@example.com](mailto:ayush.singh@example.com)  
-- **🎮 Discord**: `AyushTechZone#1234`  
+- **🌐 Personal Website**: [ayushsingh.dev](https://myportfolio-eight-orpin-74.vercel.app/)  
+- **📚 Blog**: [Insights & Stories](https://yourblog.com](https://medium.com/@ayushoo7hunt))  
+- **🐦 Twitter**: [@AyushDev](https://twitter.com/yourprofile](https://x.com/Ayushengineer91))  
+- **💼 LinkedIn**: [Ayush Singh](https://www.linkedin.com/in/ayushsingh1503/)  
+- **📧 Email**: [ayushoo7hunt@gmail.com](mailto:ayushoo7hunt@gmail.com)  
+
 
 ---
 
