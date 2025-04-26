@@ -9,7 +9,7 @@ Passionate about crafting scalable applications, clean UI/UX designs, and blendi
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushoo7hunt&theme=tokyo-night&area=true&hide_border=true" alt="Ayush's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushhunt&theme=tokyo-night&area=true&hide_border=true" alt="Ayush's GitHub Activity Graph" />
 </p>
 
 ---
