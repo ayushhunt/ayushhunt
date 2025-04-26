@@ -66,7 +66,7 @@
   <a href="https://x.com/Ayushengineer91"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@ayushoo7hunt"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://myportfolio-eight-orpin-74.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="[https://discordapp.com/users/YourDiscordID](https://discord.gg/M6a6G9B8)"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/M6a6G9B8"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
